@@ -1,3 +1,6 @@
 body {
+    /* background-image: 1920px url(cosmos.svg); */
     background-image: url(cosmos.svg);
+    background-repeat: none;
+    background-size: auto;
 }
